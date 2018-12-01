@@ -1,0 +1,13 @@
+To do list:
+•	Capire quali segnali prendere in considerazione e quali no (analisi di vari segnali generati dallo stesso movimento e media per capirne l’andamento).
+•	Capire bene come funziona il sensore.
+•	Capire come funziona la scheda ESP32 (Espressif), datasheet.
+•	Vedere Python-Micropython.
+•	Capire se GUI si o no.
+•	Display.
+•	Protocolli di trasmissione wi-fi per connettere gli slave.
+•	Creare protocollo master-slave.
+•	Uno slave per ricevere i segnali dal sensore e uno per comandare la mano.
+•	Capire che motori servono (motori brushed o brushless/servo), movimento delle dita con cavi che collegano le falangi.
+•	(In caso motori di potenza e driver).
+•	Valutare altre schede.
